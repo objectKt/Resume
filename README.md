@@ -32,13 +32,12 @@
 - 熟悉 Android UX 设计
 - 熟悉 Kotlin / RxKotlin
 - 熟悉路由框架 fiber
-- 熟练使用6k显示器
+- 熟练使用 xxx
 - 熟悉 iMac / MacBookPro
 - 熟悉 ObjectBox / MySQL
 - 擅长基建 / 架构开发
 - 熟悉 Git / SVN 代码版本控制管理
 - 熟悉使用 Mac / Windows / Linux
-- 长期参与成熟开源项目
 
 ## 项目
 
