@@ -1,7 +1,7 @@
 # 安卓开发工程师
 
-## 介绍
-
+## 自我简介
+  
 | 姓名     | Fisher Hu |
 | :--- | :--- |
 | 年龄     | 31 |
@@ -10,19 +10,6 @@
 | 期望薪资 | 面谈（工作难度、强度、匹配度） |     
 | 期望岗位 | Android 独立开发岗、kotlin、IOT 相关 |                               |
 | 擅长领域 | 安卓项目架构、UX 开发、TCP、串口、蓝牙网络通信、数据通信、HTTP通信、H264 视频编解码、Kotlin |
-
-## 技能点
-
-- 熟悉 Android UX 设计
-- 熟悉 Kotlin / RxKotlin
-- 熟悉路由框架 fiber
-- 熟练使用6k显示器
-- 熟悉 iMac / MacBookPro
-- 熟悉 ObjectBox / MySQL
-- 擅长基建 / 架构开发
-- 熟悉 Git / SVN 代码版本控制管理
-- 熟悉使用 Mac / Windows / Linux
-- 长期参与成熟开源项目
 
 ## 工作经历
 
@@ -39,6 +26,19 @@
 | :--- | :--- | :--- | :--- |
 | 2015 - 2017 | 北京航空航天大学 | 工程硕士 | 肄业
 | 2011 - 2015 | 华东交通大学 | 本科 | 学士
+
+## 技能点
+
+- 熟悉 Android UX 设计
+- 熟悉 Kotlin / RxKotlin
+- 熟悉路由框架 fiber
+- 熟练使用6k显示器
+- 熟悉 iMac / MacBookPro
+- 熟悉 ObjectBox / MySQL
+- 擅长基建 / 架构开发
+- 熟悉 Git / SVN 代码版本控制管理
+- 熟悉使用 Mac / Windows / Linux
+- 长期参与成熟开源项目
 
 ## 项目
 
