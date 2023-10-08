@@ -31,13 +31,10 @@
 
 - 熟悉 Android UX 设计
 - 熟悉 Kotlin / RxKotlin
-- 熟悉路由框架 fiber
-- 熟练使用 xxx
-- 熟悉 iMac / MacBookPro
 - 熟悉 ObjectBox / MySQL
-- 擅长基建 / 架构开发
-- 熟悉 Git / SVN 代码版本控制管理
-- 熟悉使用 Mac / Windows / Linux
+- 熟悉 Git / FastGithub / SVN
+- 熟悉 iMac / MacBookPro / Windows / Linux
+- 擅长 基建 / 架构开发 / HMI 开发
 
 ## 项目
 
